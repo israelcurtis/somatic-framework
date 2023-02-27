@@ -1,7 +1,6 @@
 === Somatic Framework ===
 Contributors: somatic
 Tags: CMS, custom post type, metabox, custom taxonomy
-Donate link: http://somaticstudios.com/code
 Requires at least: 4.0
 Tested up to: 5.6
 Stable tag: 1.8.14
